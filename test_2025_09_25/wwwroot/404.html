@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>资源不存在 - 404错误</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#3B82F6',
+                        secondary: '#64748B',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'system-ui', 'sans-serif'],
+                    },
+                }
+            }
+        }
+    </script>
+    <style type="text/tailwindcss">
+        @layer utilities {
+            .text-shadow {
+                text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            }
+            .animate-float {
+                animation: float 6s ease-in-out infinite;
+            }
+            .animate-pulse-slow {
+                animation: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+            }
+        }
+        
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-20px); }
+            100% { transform: translateY(0px); }
+        }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen flex flex-col items-center justify-center p-4">
+    <div class="text-center max-w-md w-full">
+        <!-- 404数字动画 -->
+        <div class="text-[100px] font-bold text-primary mb-6 animate-float">
+            404
+        </div>
+        
+        <!-- 错误信息 -->
+        <h1 class="text-[clamp(1.5rem,5vw,2.5rem)] font-bold text-gray-800 mb-4 text-shadow">
+            你所访问的资源不存在
+        </h1>
+        
+        <p class="text-secondary text-lg mb-8">
+            抱歉，你请求的页面无法找到。可能是地址错误或页面已被移除。
+        </p>
+        
+        <!-- 返回首页按钮 -->
+        <a href="/" class="inline-flex items-center px-6 py-3 bg-primary text-white font-medium rounded-lg shadow-md hover:bg-primary/90 transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-primary/50">
+            <i class="fa fa-home mr-2"></i>
+            返回首页
+        </a>
+        
+        <!-- 额外提示 -->
+        <p class="mt-8 text-gray-500 text-sm animate-pulse-slow">
+            或者尝试检查网址是否正确
+        </p>
+    </div>
+    
+    <!-- 装饰元素 -->
+    <div class="absolute -bottom-10 -left-10 w-40 h-40 bg-primary/5 rounded-full blur-3xl"></div>
+    <div class="absolute -top-10 -right-10 w-40 h-40 bg-primary/5 rounded-full blur-3xl"></div>
+</body>
+</html>
