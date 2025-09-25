@@ -1,0 +1,501 @@
+[NORMAL] [2025-09-21 15:45] [pid:32460] create socket success: 3
+[NORMAL] [2025-09-21 15:45] [pid:32460] bind socket success
+[NORMAL] [2025-09-21 15:45] [pid:32460] listen socket success
+[NORMAL] [2025-09-21 15:46] [pid:32460] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:46] [pid:32460] wait child success
+[NORMAL] [2025-09-21 15:46] [pid:32460] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:46] [pid:32460] wait child success
+[NORMAL] [2025-09-21 15:47] [pid:32460] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:47] [pid:32460] wait child success
+[NORMAL] [2025-09-21 15:47] [pid:32460] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:47] [pid:32460] wait child success
+[NORMAL] [2025-09-21 15:50] [pid:32690] create socket success: 3
+[NORMAL] [2025-09-21 15:50] [pid:32690] bind socket success
+[NORMAL] [2025-09-21 15:50] [pid:32690] listen socket success
+[NORMAL] [2025-09-21 15:50] [pid:32690] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:50] [pid:32690] wait child success
+[NORMAL] [2025-09-21 15:50] [pid:32690] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:50] [pid:32690] wait child success
+[NORMAL] [2025-09-21 15:51] [pid:32690] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:51] [pid:32690] wait child success
+[NORMAL] [2025-09-21 15:51] [pid:32690] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:51] [pid:32690] wait child success
+[NORMAL] [2025-09-21 15:52] [pid:32690] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:52] [pid:32690] wait child success
+[NORMAL] [2025-09-21 15:52] [pid:32690] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:52] [pid:32690] wait child success
+[NORMAL] [2025-09-21 15:52] [pid:32690] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:52] [pid:32690] wait child success
+[NORMAL] [2025-09-21 15:53] [pid:32690] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:53] [pid:32690] wait child success
+[NORMAL] [2025-09-21 15:58] [pid:304] create socket success: 3
+[NORMAL] [2025-09-21 15:58] [pid:304] bind socket success
+[NORMAL] [2025-09-21 15:58] [pid:304] listen socket success
+[NORMAL] [2025-09-21 15:58] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:58] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:58] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:58] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:58] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:58] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:58] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:58] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:58] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:58] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:58] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:58] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:58] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:58] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:59] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:59] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:59] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:59] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:59] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:59] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:59] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:59] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:59] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:59] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:59] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:59] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:59] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:59] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:59] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:59] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:59] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:59] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:59] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:59] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:59] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:59] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:59] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:59] [pid:304] wait child success
+[NORMAL] [2025-09-21 15:59] [pid:304] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 15:59] [pid:304] wait child success
+[NORMAL] [2025-09-21 16:22] [pid:424] create socket success: 3
+[NORMAL] [2025-09-21 16:22] [pid:424] bind socket success
+[NORMAL] [2025-09-21 16:22] [pid:424] listen socket success
+[NORMAL] [2025-09-21 16:22] [pid:424] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:22] [pid:424] wait child success
+[NORMAL] [2025-09-21 16:22] [pid:424] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:22] [pid:424] wait child success
+[NORMAL] [2025-09-21 16:22] [pid:424] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:22] [pid:424] wait child success
+[NORMAL] [2025-09-21 16:22] [pid:424] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:22] [pid:424] wait child success
+[NORMAL] [2025-09-21 16:22] [pid:424] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:22] [pid:424] wait child success
+[NORMAL] [2025-09-21 16:22] [pid:424] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:22] [pid:424] wait child success
+[NORMAL] [2025-09-21 16:22] [pid:424] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:22] [pid:424] wait child success
+[NORMAL] [2025-09-21 16:22] [pid:424] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:22] [pid:424] wait child success
+[NORMAL] [2025-09-21 16:22] [pid:424] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:22] [pid:424] wait child success
+[NORMAL] [2025-09-21 16:22] [pid:424] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:22] [pid:424] wait child success
+[NORMAL] [2025-09-21 16:42] [pid:519] create socket success: 3
+[NORMAL] [2025-09-21 16:42] [pid:519] bind socket success
+[NORMAL] [2025-09-21 16:42] [pid:519] listen socket success
+[NORMAL] [2025-09-21 16:43] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:43] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:43] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:43] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:43] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:43] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:43] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:43] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:43] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:43] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:43] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:43] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:44] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:44] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:44] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:44] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:44] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:44] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:44] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:44] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:44] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:44] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:44] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:44] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:45] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:45] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:45] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:45] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:45] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:45] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:46] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:46] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:46] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:46] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:46] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:46] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:46] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:46] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:46] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:46] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:46] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:46] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:46] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:46] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:46] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:46] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:48] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:48] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:48] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:48] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:48] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:48] [pid:519] wait child success
+[NORMAL] [2025-09-21 16:48] [pid:519] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 16:48] [pid:519] wait child success
+[NORMAL] [2025-09-21 17:02] [pid:691] create socket success: 3
+[NORMAL] [2025-09-21 17:02] [pid:691] bind socket success
+[NORMAL] [2025-09-21 17:02] [pid:691] listen socket success
+[NORMAL] [2025-09-21 17:02] [pid:691] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:02] [pid:691] wait child success
+[NORMAL] [2025-09-21 17:02] [pid:691] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:02] [pid:691] wait child success
+[NORMAL] [2025-09-21 17:02] [pid:691] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:02] [pid:691] wait child success
+[NORMAL] [2025-09-21 17:02] [pid:691] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:02] [pid:691] wait child success
+[NORMAL] [2025-09-21 17:02] [pid:691] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:02] [pid:691] wait child success
+[NORMAL] [2025-09-21 17:02] [pid:691] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:02] [pid:691] wait child success
+[NORMAL] [2025-09-21 17:02] [pid:691] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:02] [pid:691] wait child success
+[NORMAL] [2025-09-21 17:02] [pid:691] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:02] [pid:691] wait child success
+[NORMAL] [2025-09-21 17:05] [pid:724] create socket success: 3
+[NORMAL] [2025-09-21 17:05] [pid:724] bind socket success
+[NORMAL] [2025-09-21 17:05] [pid:724] listen socket success
+[NORMAL] [2025-09-21 17:05] [pid:724] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:05] [pid:724] wait child success
+[NORMAL] [2025-09-21 17:05] [pid:724] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:05] [pid:724] wait child success
+[NORMAL] [2025-09-21 17:05] [pid:724] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:05] [pid:724] wait child success
+[NORMAL] [2025-09-21 17:05] [pid:724] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:05] [pid:724] wait child success
+[NORMAL] [2025-09-21 17:05] [pid:724] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:05] [pid:724] wait child success
+[NORMAL] [2025-09-21 17:05] [pid:724] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:05] [pid:724] wait child success
+[NORMAL] [2025-09-21 17:05] [pid:724] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:05] [pid:724] wait child success
+[NORMAL] [2025-09-21 17:05] [pid:724] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:05] [pid:724] wait child success
+[NORMAL] [2025-09-21 17:05] [pid:724] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:05] [pid:724] wait child success
+[NORMAL] [2025-09-21 17:07] [pid:753] create socket success: 3
+[NORMAL] [2025-09-21 17:07] [pid:753] bind socket success
+[NORMAL] [2025-09-21 17:07] [pid:753] listen socket success
+[NORMAL] [2025-09-21 17:07] [pid:753] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:07] [pid:753] wait child success
+[NORMAL] [2025-09-21 17:07] [pid:753] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:07] [pid:753] wait child success
+[NORMAL] [2025-09-21 17:09] [pid:766] create socket success: 3
+[NORMAL] [2025-09-21 17:09] [pid:766] bind socket success
+[NORMAL] [2025-09-21 17:09] [pid:766] listen socket success
+[NORMAL] [2025-09-21 17:09] [pid:766] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:09] [pid:766] wait child success
+[NORMAL] [2025-09-21 17:09] [pid:766] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:09] [pid:766] wait child success
+[NORMAL] [2025-09-21 17:10] [pid:787] create socket success: 3
+[NORMAL] [2025-09-21 17:10] [pid:788] create socket success: 3
+[NORMAL] [2025-09-21 17:10] [pid:789] create socket success: 3
+[NORMAL] [2025-09-21 17:10] [pid:789] bind socket success
+[NORMAL] [2025-09-21 17:10] [pid:789] listen socket success
+[NORMAL] [2025-09-21 17:10] [pid:789] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:10] [pid:789] wait child success
+[NORMAL] [2025-09-21 17:10] [pid:789] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:10] [pid:789] wait child success
+[NORMAL] [2025-09-21 17:11] [pid:803] create socket success: 3
+[NORMAL] [2025-09-21 17:11] [pid:804] create socket success: 3
+[NORMAL] [2025-09-21 17:11] [pid:804] bind socket success
+[NORMAL] [2025-09-21 17:11] [pid:804] listen socket success
+[NORMAL] [2025-09-21 17:11] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:11] [pid:804] wait child success
+[NORMAL] [2025-09-21 17:11] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:11] [pid:804] wait child success
+[NORMAL] [2025-09-21 17:14] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:14] [pid:804] wait child success
+[NORMAL] [2025-09-21 17:14] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:14] [pid:804] wait child success
+[NORMAL] [2025-09-21 17:14] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:14] [pid:804] wait child success
+[NORMAL] [2025-09-21 17:14] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:14] [pid:804] wait child success
+[NORMAL] [2025-09-21 17:14] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:14] [pid:804] wait child success
+[NORMAL] [2025-09-21 17:14] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:14] [pid:804] wait child success
+[NORMAL] [2025-09-21 17:14] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:14] [pid:804] wait child success
+[NORMAL] [2025-09-21 17:14] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 17:14] [pid:804] wait child success
+[NORMAL] [2025-09-21 18:06] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 18:06] [pid:804] wait child success
+[NORMAL] [2025-09-21 18:06] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 18:06] [pid:804] wait child success
+[NORMAL] [2025-09-21 18:06] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 18:06] [pid:804] wait child success
+[NORMAL] [2025-09-21 18:21] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 18:21] [pid:804] wait child success
+[NORMAL] [2025-09-21 19:07] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 19:07] [pid:804] wait child success
+[NORMAL] [2025-09-21 19:07] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 19:07] [pid:804] wait child success
+[NORMAL] [2025-09-21 19:07] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 19:07] [pid:804] wait child success
+[NORMAL] [2025-09-21 20:31] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 20:31] [pid:804] wait child success
+[NORMAL] [2025-09-21 20:31] [pid:804] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-21 20:31] [pid:804] wait child success
+[NORMAL] [2025-09-22 10:17] [pid:2693] create socket success: 3
+[NORMAL] [2025-09-22 10:17] [pid:2693] bind socket success
+[NORMAL] [2025-09-22 10:17] [pid:2693] listen socket success
+[NORMAL] [2025-09-22 10:18] [pid:2709] create socket success: 3
+[NORMAL] [2025-09-22 10:18] [pid:2709] bind socket success
+[NORMAL] [2025-09-22 10:18] [pid:2709] listen socket success
+[NORMAL] [2025-09-22 10:18] [pid:2709] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:18] [pid:2709] wait child success
+[NORMAL] [2025-09-22 10:18] [pid:2709] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:18] [pid:2709] wait child success
+[NORMAL] [2025-09-22 10:18] [pid:2709] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:18] [pid:2709] wait child success
+[NORMAL] [2025-09-22 10:19] [pid:2709] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:19] [pid:2709] wait child success
+[NORMAL] [2025-09-22 10:19] [pid:2709] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:19] [pid:2709] wait child success
+[NORMAL] [2025-09-22 10:19] [pid:2709] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:19] [pid:2709] wait child success
+[NORMAL] [2025-09-22 10:19] [pid:2709] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:19] [pid:2709] wait child success
+[NORMAL] [2025-09-22 10:20] [pid:2768] create socket success: 3
+[NORMAL] [2025-09-22 10:36] [pid:2788] create socket success: 3
+[NORMAL] [2025-09-22 10:36] [pid:2788] bind socket success
+[NORMAL] [2025-09-22 10:36] [pid:2788] listen socket success
+[NORMAL] [2025-09-22 10:36] [pid:2788] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:36] [pid:2788] wait child success
+[NORMAL] [2025-09-22 10:36] [pid:2788] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:36] [pid:2788] wait child success
+[NORMAL] [2025-09-22 10:36] [pid:2788] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:36] [pid:2788] wait child success
+[NORMAL] [2025-09-22 10:36] [pid:2788] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:36] [pid:2788] wait child success
+[NORMAL] [2025-09-22 10:37] [pid:2788] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:37] [pid:2788] wait child success
+[NORMAL] [2025-09-22 10:37] [pid:2788] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:37] [pid:2788] wait child success
+[NORMAL] [2025-09-22 10:37] [pid:2788] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:37] [pid:2788] wait child success
+[NORMAL] [2025-09-22 10:37] [pid:2788] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:37] [pid:2788] wait child success
+[NORMAL] [2025-09-22 10:37] [pid:2788] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:37] [pid:2788] wait child success
+[NORMAL] [2025-09-22 10:37] [pid:2788] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:37] [pid:2788] wait child success
+[NORMAL] [2025-09-22 10:55] [pid:2788] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 10:55] [pid:2788] wait child success
+[NORMAL] [2025-09-22 11:15] [pid:2889] create socket success: 3
+[NORMAL] [2025-09-22 11:15] [pid:2889] bind socket success
+[NORMAL] [2025-09-22 11:15] [pid:2889] listen socket success
+[NORMAL] [2025-09-22 11:15] [pid:2889] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:15] [pid:2889] wait child success
+[NORMAL] [2025-09-22 11:15] [pid:2889] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:15] [pid:2889] wait child success
+[NORMAL] [2025-09-22 11:15] [pid:2889] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:15] [pid:2889] wait child success
+[NORMAL] [2025-09-22 11:15] [pid:2889] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:15] [pid:2889] wait child success
+[NORMAL] [2025-09-22 11:16] [pid:2889] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:16] [pid:2889] wait child success
+[NORMAL] [2025-09-22 11:17] [pid:2909] create socket success: 3
+[NORMAL] [2025-09-22 11:17] [pid:2909] bind socket success
+[NORMAL] [2025-09-22 11:17] [pid:2909] listen socket success
+[NORMAL] [2025-09-22 11:17] [pid:2909] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:17] [pid:2909] wait child success
+[NORMAL] [2025-09-22 11:17] [pid:2909] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:17] [pid:2909] wait child success
+[NORMAL] [2025-09-22 11:17] [pid:2909] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:17] [pid:2909] wait child success
+[NORMAL] [2025-09-22 11:17] [pid:2909] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:17] [pid:2909] wait child success
+[NORMAL] [2025-09-22 11:18] [pid:2909] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:18] [pid:2909] wait child success
+[NORMAL] [2025-09-22 11:18] [pid:2909] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:18] [pid:2909] wait child success
+[NORMAL] [2025-09-22 11:58] [pid:3098] create socket success: 3
+[NORMAL] [2025-09-22 11:58] [pid:3098] bind socket success
+[NORMAL] [2025-09-22 11:58] [pid:3098] listen socket success
+[NORMAL] [2025-09-22 11:58] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:58] [pid:3098] wait child success
+[NORMAL] [2025-09-22 11:58] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:58] [pid:3098] wait child success
+[NORMAL] [2025-09-22 11:58] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:58] [pid:3098] wait child success
+[NORMAL] [2025-09-22 11:58] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:58] [pid:3098] wait child success
+[NORMAL] [2025-09-22 11:58] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:58] [pid:3098] wait child success
+[NORMAL] [2025-09-22 11:59] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:59] [pid:3098] wait child success
+[NORMAL] [2025-09-22 11:59] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 11:59] [pid:3098] wait child success
+[NORMAL] [2025-09-22 13:07] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 13:07] [pid:3098] wait child success
+[NORMAL] [2025-09-22 14:03] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 14:03] [pid:3098] wait child success
+[NORMAL] [2025-09-22 14:03] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 14:03] [pid:3098] wait child success
+[NORMAL] [2025-09-22 14:11] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 14:11] [pid:3098] wait child success
+[NORMAL] [2025-09-22 14:12] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 14:12] [pid:3098] wait child success
+[NORMAL] [2025-09-22 14:12] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 14:12] [pid:3098] wait child success
+[NORMAL] [2025-09-22 14:12] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 14:12] [pid:3098] wait child success
+[NORMAL] [2025-09-22 14:12] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 14:12] [pid:3098] wait child success
+[NORMAL] [2025-09-22 14:12] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 14:12] [pid:3098] wait child success
+[NORMAL] [2025-09-22 14:12] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 14:12] [pid:3098] wait child success
+[NORMAL] [2025-09-22 14:12] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 14:12] [pid:3098] wait child success
+[NORMAL] [2025-09-22 14:30] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 14:30] [pid:3098] wait child success
+[NORMAL] [2025-09-22 14:34] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 14:34] [pid:3098] wait child success
+[NORMAL] [2025-09-22 14:36] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 14:36] [pid:3098] wait child success
+[NORMAL] [2025-09-22 16:00] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 16:00] [pid:3098] wait child success
+[NORMAL] [2025-09-22 16:13] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 16:13] [pid:3098] wait child success
+[NORMAL] [2025-09-22 16:13] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 16:13] [pid:3098] wait child success
+[NORMAL] [2025-09-22 16:13] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 16:13] [pid:3098] wait child success
+[NORMAL] [2025-09-22 16:13] [pid:3098] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 16:13] [pid:3098] wait child success
+[NORMAL] [2025-09-22 16:39] [pid:3601] create socket success: 3
+[NORMAL] [2025-09-22 16:39] [pid:3601] bind socket success
+[NORMAL] [2025-09-22 16:39] [pid:3601] listen socket success
+[NORMAL] [2025-09-22 16:39] [pid:3601] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 16:39] [pid:3601] wait child success
+[NORMAL] [2025-09-22 16:39] [pid:3601] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 16:39] [pid:3601] wait child success
+[NORMAL] [2025-09-22 16:39] [pid:3601] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 16:39] [pid:3601] wait child success
+[NORMAL] [2025-09-22 16:39] [pid:3601] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 16:39] [pid:3601] wait child success
+[NORMAL] [2025-09-22 16:40] [pid:3629] create socket success: 3
+[NORMAL] [2025-09-22 16:40] [pid:3630] create socket success: 3
+[NORMAL] [2025-09-22 16:40] [pid:3630] bind socket success
+[NORMAL] [2025-09-22 16:40] [pid:3630] listen socket success
+[NORMAL] [2025-09-22 16:40] [pid:3630] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 16:40] [pid:3630] wait child success
+[NORMAL] [2025-09-22 16:40] [pid:3630] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 16:40] [pid:3630] wait child success
+[NORMAL] [2025-09-22 16:41] [pid:3630] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 16:41] [pid:3630] wait child success
+[NORMAL] [2025-09-22 16:41] [pid:3630] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 16:41] [pid:3630] wait child success
+[NORMAL] [2025-09-22 17:44] [pid:3630] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 17:44] [pid:3630] wait child success
+[NORMAL] [2025-09-22 17:44] [pid:3630] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-22 17:44] [pid:3630] wait child success
+[NORMAL] [2025-09-23 10:54] [pid:5620] create socket success: 3
+[NORMAL] [2025-09-23 10:54] [pid:5620] bind socket success
+[NORMAL] [2025-09-23 10:54] [pid:5620] listen socket success
+[NORMAL] [2025-09-23 10:54] [pid:5620] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 10:54] [pid:5620] wait child success
+[NORMAL] [2025-09-23 10:54] [pid:5620] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 10:54] [pid:5620] wait child success
+[NORMAL] [2025-09-23 10:55] [pid:5634] create socket success: 3
+[NORMAL] [2025-09-23 10:55] [pid:5634] bind socket success
+[NORMAL] [2025-09-23 10:55] [pid:5634] listen socket success
+[NORMAL] [2025-09-23 10:55] [pid:5634] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 10:55] [pid:5634] wait child success
+[NORMAL] [2025-09-23 10:55] [pid:5634] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 10:55] [pid:5634] wait child success
+[NORMAL] [2025-09-23 10:55] [pid:5634] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 10:55] [pid:5634] wait child success
+[NORMAL] [2025-09-23 10:55] [pid:5634] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 10:55] [pid:5634] wait child success
+[NORMAL] [2025-09-23 11:00] [pid:5665] create socket success: 3
+[NORMAL] [2025-09-23 11:00] [pid:5665] bind socket success
+[NORMAL] [2025-09-23 11:00] [pid:5665] listen socket success
+[NORMAL] [2025-09-23 11:00] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 11:00] [pid:5665] wait child success
+[NORMAL] [2025-09-23 11:00] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 11:00] [pid:5665] wait child success
+[NORMAL] [2025-09-23 11:01] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 11:01] [pid:5665] wait child success
+[NORMAL] [2025-09-23 11:01] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 11:01] [pid:5665] wait child success
+[NORMAL] [2025-09-23 11:43] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 11:43] [pid:5665] wait child success
+[NORMAL] [2025-09-23 11:43] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 11:43] [pid:5665] wait child success
+[NORMAL] [2025-09-23 12:10] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 12:10] [pid:5665] wait child success
+[NORMAL] [2025-09-23 12:10] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 12:10] [pid:5665] wait child success
+[NORMAL] [2025-09-23 12:10] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 12:10] [pid:5665] wait child success
+[NORMAL] [2025-09-23 12:10] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 12:10] [pid:5665] wait child success
+[NORMAL] [2025-09-23 13:17] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 13:17] [pid:5665] wait child success
+[NORMAL] [2025-09-23 13:21] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 13:21] [pid:5665] wait child success
+[NORMAL] [2025-09-23 13:36] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 13:36] [pid:5665] wait child success
+[NORMAL] [2025-09-23 14:20] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 14:20] [pid:5665] wait child success
+[NORMAL] [2025-09-23 14:21] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 14:21] [pid:5665] wait child success
+[NORMAL] [2025-09-23 14:21] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 14:21] [pid:5665] wait child success
+[NORMAL] [2025-09-23 14:21] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 14:21] [pid:5665] wait child success
+[NORMAL] [2025-09-23 14:21] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 14:21] [pid:5665] wait child success
+[NORMAL] [2025-09-23 14:21] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 14:21] [pid:5665] wait child success
+[NORMAL] [2025-09-23 14:22] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 14:22] [pid:5665] wait child success
+[NORMAL] [2025-09-23 15:15] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 15:15] [pid:5665] wait child success
+[NORMAL] [2025-09-23 15:54] [pid:5665] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-23 15:54] [pid:5665] wait child success
+[NORMAL] [2025-09-25 10:50] [pid:10195] create socket success: 3
+[NORMAL] [2025-09-25 10:50] [pid:10195] bind socket success
+[NORMAL] [2025-09-25 10:50] [pid:10195] listen socket success
+[NORMAL] [2025-09-25 10:52] [pid:10208] create socket success: 3
+[NORMAL] [2025-09-25 10:52] [pid:10208] bind socket success
+[NORMAL] [2025-09-25 10:52] [pid:10208] listen socket success
+[NORMAL] [2025-09-25 10:55] [pid:10214] create socket success: 3
+[NORMAL] [2025-09-25 10:55] [pid:10215] create socket success: 3
+[NORMAL] [2025-09-25 10:55] [pid:10216] create socket success: 3
+[NORMAL] [2025-09-25 10:55] [pid:10217] create socket success: 3
+[NORMAL] [2025-09-25 10:55] [pid:10217] bind socket success
+[NORMAL] [2025-09-25 10:55] [pid:10217] listen socket success
+[NORMAL] [2025-09-25 11:52] [pid:10217] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-25 11:52] [pid:10217] wait child success
+[NORMAL] [2025-09-25 12:08] [pid:10217] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-25 12:08] [pid:10217] wait child success
+[NORMAL] [2025-09-25 12:30] [pid:10217] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-25 12:30] [pid:10217] wait child success
+[NORMAL] [2025-09-25 13:17] [pid:10217] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-25 13:17] [pid:10217] wait child success
+[NORMAL] [2025-09-25 13:35] [pid:10217] accept a new link success, get new sock: 4
+[NORMAL] [2025-09-25 13:35] [pid:10217] wait child success
