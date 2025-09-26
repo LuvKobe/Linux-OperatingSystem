@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的首页</title>
+</head>
+<body>
+    <!--注释-->
+    <h1>Welcome to Edison's home!</h1>
+
+    <!-- 跳转链接 -->
+    <!-- alt是图片加载失败, 显示汉字 -->
+    <!-- <img src="/image/p1.jpg" alt="鹦鹉"> -->
+    <!-- <img src="https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201511/28/105403wzdtyw7wwywaorry.jpg" alt="蒲公英"> -->
+    <a href="/test/a.html">新闻</a>
+    <a href="/test/b.html">电商</a> 
+    
+    <!-- 表单 -->
+    <!-- 我们一般在写URL的时候呢，在action这我们需要提交到一个指定的资源项。
+    因为服务器内部会根据这部分资源呢，把我们对应需要的参数提交给对应的资源，
+    由对应的资源来帮我们做处理。 -->
+    <form action="/test.py" method="GET">
+        账号:<br>
+        <input type="text" name="account">
+        <br>
+        密码:<br>
+        <input type="password" name="password">
+        <br><br>
+        <input type="submit" value="登录">
+    </form>
+</body>
+</html>
