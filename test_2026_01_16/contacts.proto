@@ -1,0 +1,8 @@
+syntax = "proto3";
+package contacts;
+
+// 定义联系人消息
+message PeopleInfo {
+    string name = 1;
+    int32 age = 2;
+}
